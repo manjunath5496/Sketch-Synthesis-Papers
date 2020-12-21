@@ -59,12 +59,12 @@ Fully Convolutional Networks for Rough Sketch Cleanup</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Synthesis-Papers/blob/master/sk(29).pdf" style="text-decoration:none;">APDrawingGAN: Generating Artistic Portrait Drawings from Face Photos with Hierarchical GANs </a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Synthesis-Papers/blob/master/sk(30).pdf" style="text-decoration:none;">High-Quality Facial Photo-Sketch Synthesis Using Multi-Adversarial Networks</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Synthesis-Papers/blob/master/sk(31).pdf" style="text-decoration:none;">High-Quality Facial Photo-Sketch Synthesis Using Multi-Adversarial Networks</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Synthesis-Papers/blob/master/sk(31).pdf" style="text-decoration:none;">Robust Face Sketch Synthesis via Generative Adversarial Fusion of Priors and Parametric Sigmoid</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Synthesis-Papers/blob/master/sk(32).pdf" style="text-decoration:none;">Towards Realistic Face Photo-Sketch Synthesis via Composition-Aided GANs</a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Synthesis-Papers/blob/master/sk(33).pdf" style="text-decoration:none;">Semi-Supervised Learning for Face Sketch Synthesis in the Wild</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Synthesis-Papers/blob/master/sk(34).pdf" style="text-decoration:none;">Semi-Supervised Learning for Face Sketch Synthesis in the Wild</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Synthesis-Papers/blob/master/sk(34).pdf" style="text-decoration:none;">Markov Random Neural Fields for Face Sketch Synthesis</a></li> 
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Synthesis-Papers/blob/master/sk(35).pdf" style="text-decoration:none;">Scoot: A Perceptual Metric for Facial Sketches</a></li> 
 
@@ -75,5 +75,5 @@ Fully Convolutional Networks for Rough Sketch Cleanup</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Synthesis-Papers/blob/master/sk(39).pdf" style="text-decoration:none;">Face Photo-Sketch Synthesis and Recognition</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Synthesis-Papers/blob/master/sk(40).pdf" style="text-decoration:none;">Real-Time Exemplar-Based Face Sketch Synthesis</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Synthesis-Papers/blob/master/sk(41).pdf" style="text-decoration:none;">Program Synthesis by Sketching</a></li>
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Sketch-Synthesis-Papers/blob/master/sk(42).pdf" style="text-decoration:none;">Scribbler: Controlling Deep Image Synthesis with Sketch and Color</a></li>
 </ul>
